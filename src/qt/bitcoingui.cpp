@@ -45,15 +45,12 @@
 #include <QMovie>
 #include <QTimer>
 #include <QDragEnterEvent>
+#include <QUrl>
 #include <QMimeData>
 #include <QStyle>
 #include <QSettings>
 #include <QDesktopWidget>
 #include <QListWidget>
-
-#if QT_VERSION < 0x050000
-#include <QUrl>
-#endif
 
 #include <iostream>
 
