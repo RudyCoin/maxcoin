@@ -1,11 +1,11 @@
-What is MaxCoin?
+What is RudyCoin?
 ==============
 
-An alternative cryptocurrency disrupting the already rather disrupting crypto market.
+An alternative cryptocurrency designed to make my cat Rudy rich. Until further notice, this is not a completed cryptocurrency but rather a fork of Maxcoin that I am working on. Do not download -- yet.
 
 Technical Information
 
-+ ~100,000,000 coins
++ ~5,000,000 coins
 + 48 coins rewarded per block, halving every ~12 months
 + minimum reward of 1 coin per block
 + 30 second block times
