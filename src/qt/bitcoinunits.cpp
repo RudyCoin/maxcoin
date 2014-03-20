@@ -56,10 +56,10 @@ qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)
     {
-    case MAX:  return 100000000;
-    case mMAX: return 100000;
-    case uMAX: return 100;
-    default:   return 100000000;
+    case MAX:  return 50000000;
+    case mMAX: return 50000;
+    case uMAX: return 50;
+    default:   return 50000000;
     }
 }
 
